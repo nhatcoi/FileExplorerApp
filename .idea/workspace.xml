@@ -1,39 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7684c45e-00fe-48ae-93f1-785e44606ff6" name="Changes" comment="" />
+    <list default="true" id="7684c45e-00fe-48ae-93f1-785e44606ff6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/folderOpen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/pc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/img/thumb_Hard_Drive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/ClassTableView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/ClassTilesView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/ClassTreeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/ControllerTableView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/ControllerTiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/ControllerTilesView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/FileExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/FileExplorerFx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/FileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/fileexploserapp/Scene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/fileexploserapp/Scene2.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/fileexploserapp/Scene3.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/fileexploserapp/Scene4.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/fileexploserapp/hello-view.fxml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2dS9HGeL6dsoTijc2caUfNxjxmv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/nhatcoi/Documents/NHATCOI/PROGRAMMING/JAVA/FileExploserApp/src/main/java/org/example/fileexploserapp",
+    "last_opened_file_path": "/Users/nhatcoi/Documents/NHATCOI/PROGRAMMING/JAVA/FileExploserApp/src/main/java/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/img" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/org/example/fileexploserapp" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/fileexploserapp/img" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="org.example.fileexploserapp" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-be841094" />
       </set>
     </attachedChunks>
   </component>
@@ -45,10 +122,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709990524978</updated>
+      <workItem from="1709990526131" duration="517000" />
+      <workItem from="1709991051788" duration="15040000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

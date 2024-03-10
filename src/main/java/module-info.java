@@ -10,6 +10,8 @@ module org.example.fileexploserapp {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires java.desktop;
+    requires javafx.swing;
 
     opens org.example.fileexploserapp to javafx.fxml;
     exports org.example.fileexploserapp;
